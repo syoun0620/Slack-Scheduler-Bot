@@ -4,5 +4,7 @@ A language-aware intelligent Slack bot for scheduling reminders and meetings wit
 Reminder 
 ![http://recordit.co/ZPYZcdWnAY.gif](http://recordit.co/ZPYZcdWnAY.gif)
 
+http://recordit.co/ZPYZcdWnAY
+
 Schedule
 ![http://recordit.co/hDcIY6dlAT.gif](http://recordit.co/hDcIY6dlAT.gif)
