@@ -1,8 +1,7 @@
 # Slack-Scheduler-Bot
 A language-aware intelligent Slack bot for scheduling reminders and meetings with other Slack users in Google Calendar. 
 
-
-![](http://recordit.co/ZPYZcdWnAY.gif)
+![alt text](http://recordit.co/ZPYZcdWnAY.gif)
 Reminder 
 ![http://recordit.co/ZPYZcdWnAY.gif](http://recordit.co/ZPYZcdWnAY.gif)
 
